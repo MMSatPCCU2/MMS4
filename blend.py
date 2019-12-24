@@ -3,6 +3,8 @@ import numpy as np
 from matplotlib import pyplot as plt
 
 # New Version stand-by
+# 2-th on develop_write_file
+# 3-th on develop_write_file
 
 
 def nop(x):
